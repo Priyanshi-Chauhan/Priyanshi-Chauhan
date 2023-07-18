@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priyanshi-Chauhan
 - 👀 I’m interested in Web Development. 
 - 🌱 Well versed with Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on projects related to WEBD
+- 💞️ I love to network and add value to your community 
 - 📫 You can reach me via linkedIn , Twitter
 
 <!---

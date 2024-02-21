@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Priyanshi-Chauhan, an aspiring Web developer with keen interest in building Frontend development.  
 - 👀 I am looking for opportunities in software development field.
--  Currently, I'm diving into Reactjs and experimenting with Projects.
+-  Currently, I'm diving into Reactjs and Nextjs and experimenting with Projects.
 - 🌱 Well versed with Data Structures and Algorithms.
 
 🛠️ Tech Stack:
-- Languages: HTML5, CSS3, JavaScript.
-- Frameworks: React, Redux, Expressjs
+- Languages: HTML5, CSS3, JavaScript, Java
+- Frameworks: React.js, Redux, Express.js
 - Version Control: Git, GitHub.
 - Tools: Nodejs
 - Database : MySQL, MongoDB, Firebase 
